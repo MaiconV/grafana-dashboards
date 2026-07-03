@@ -1,4 +1,11 @@
 # 🖥 Enterprise NOC Dashboard
+![Grafana](https://img.shields.io/badge/Grafana-10+-F46800?logo=grafana&logoColor=white)
+
+![Zabbix](https://img.shields.io/badge/Zabbix-7.x-CC0000?logo=zabbix&logoColor=white)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue)
 
 Dashboard desenvolvido do zero para monitoramento de infraestrutura corporativa utilizando **Grafana** e **Zabbix**.
 

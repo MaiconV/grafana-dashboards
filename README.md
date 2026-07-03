@@ -35,13 +35,13 @@ grafana-dashboards
 
 ## 📊 Dashboards
 
-| Dashboard | Status |
-|-----------|:------:|
-| NOC | 🚧 Em desenvolvimento |
-| FortiGate | 🚧 Em desenvolvimento |
-| Windows Server | 🚧 Em desenvolvimento |
-| Linux | 🚧 Em desenvolvimento |
-| Network Links | 🚧 Em desenvolvimento |
+| Dashboard | Descrição | Status |
+|-----------|-----------|:------:|
+| Enterprise NOC | Dashboard para monitoramento centralizado de infraestrutura | ✅ |
+| FortiGate | Monitoramento específico do firewall | 🚧 |
+| Windows Server | Monitoramento de servidores Windows | 🚧 |
+| Linux | Monitoramento de servidores Linux | 🚧 |
+| Network Links | Monitoramento de links e conectividade | 🚧 |
 
 ---
 
